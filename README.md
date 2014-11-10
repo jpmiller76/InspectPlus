@@ -7,8 +7,8 @@ Project is to build an Construction Inspection Website and Mobile app with assoc
 
 Feature List
 Website
-Account Creation
-Project Creation
++Account Creation
++Project Creation
 Inspection Creation
 Inspection Assignment
 View Project Progress
